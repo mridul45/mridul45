@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/2319164/videos/7592/upload_dribbble-800x600.mp4)](https://rishavchanda.io)
+[![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Mridul Singhal</h1>
 <h3 align="center">A Backend Developer from India</h3>
 img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."

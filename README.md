@@ -1,4 +1,4 @@
-[![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)](https://rishavchanda.io)
+[![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)](https://portfolio474.herokuapp.com/)
 <h1 align="center">Hi 👋, I'm Mridul Singhal</h1>
 <h3 align="center">A Backend Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b761101879835126b4008ffb0a722fa8a2ebc0982a17d&rid=giphy.gif&ct=g">
